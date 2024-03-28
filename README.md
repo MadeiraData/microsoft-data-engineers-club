@@ -8,6 +8,13 @@ Please visit our official website at:
 
 [www.madeiradata.com](https://www.madeiradata.com)
 
+For more community resources, visit our official community web pages:
+
+- [Microsoft Data Engineers Club](https://www.madeiradata.com/engineerscommunity)
+- [Microsoft Data Anslysts Club](https://www.madeiradata.com/analystscommunity)
+- [Microsoft DBAs Club](https://www.madeiradata.com/dbascommunity)
+- [Microsoft Data Leaders Club](https://www.madeiradata.com/dataleaderscommunity)
+
 ## License
 
 All materials in this repository are released under the [MIT license](https://github.com/MadeiraData/microsoft-data-engineers-club/blob/master/LICENSE).
