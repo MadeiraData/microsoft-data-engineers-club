@@ -1,4 +1,4 @@
-[![Welcome - We are Madeira Data Solutions](Banner.png)](https://www.madeiradata.com)
+[![Welcome - We are Madeira Data Solutions](Banner.png)](https://www.madeiradata.com/engineerscommunity)
 
 # Microsoft Data Engineers Club
 
